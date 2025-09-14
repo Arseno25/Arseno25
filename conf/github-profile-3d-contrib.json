@@ -1,7 +1,7 @@
 [
     {
         "type": "bitmap",
-        "fileName": "profile-gitblock.svg",
+        "fileName": "profile-custom-gitblock.svg",
         "backgroundColor": "#ffffff",
         "foregroundColor": "#00000f",
         "strongColor": "#111133",
@@ -346,5 +346,5 @@
           }
         ]
       }
-      
+
 ]
